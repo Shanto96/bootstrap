@@ -1,0 +1,85 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#header{
+    min-height: 130px;
+    background-color: #A2C2FB;
+    margin-bottom: 10px;
+}
+.brand,.globe-nav,.tool{
+    height: 100px;
+    margin-top: 15px;
+    background-color: #D0E2FD;
+    margin-bottom: 15px
+        
+}
+
+
+#hero{
+    min-height: 200px;
+    margin-bottom: 10px;
+    
+}
+.hero_content{
+    min-height: 200px;
+    background-color:#A2C2FB;
+    
+}
+.hero-features,.hero-call-to-action{
+    min-height: 170px;
+    margin-top: 15px;
+    background-color: #D0E2FD;
+    
+}
+.padding_right-0{
+    padding-right: 0px;
+    
+}
+.add{
+    min-height: 200px;
+    background-color: #70A8DD;
+    
+    
+}
+
+#main-body{
+    min-height: 300px;
+    margin-bottom: 10px;
+    
+    
+}
+.bodycontent,.sidebg{
+    min-height: 300px;background-color:#A2C2FB;
+    
+     
+    
+}
+.sidebg{
+   
+    padding: 20px 10px;
+}
+.article-content,.article-listen{
+    min-height: 250px;
+   
+    margin-top: 25px;
+     background-color: #D0E2FD;
+}
+.sidebar{
+    min-height: 250px;
+   
+   
+     background-color: #D0E2FD;
+}
+#footer{
+    height: 80px;
+}
+.footers{
+    min-height: 80px;
+    width: 100%;
+    background-color:#A2C2FB;
+}
+
+
+
